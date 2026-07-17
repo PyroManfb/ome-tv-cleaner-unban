@@ -2,9 +2,9 @@
 
 Proste rozszerzenie, które czyści dane sesji ome.tv i losuje nowy fingerprint przeglądarki. Dzięki temu strona widzi Cię jako nowego użytkownika.
 
-> ⚠️ **Ważne / Important:** Narzędzie usuwa bana na poziomie **przeglądarki** (cookies + fingerprint), a NIE bana na **koncie Google** ani koncie ome.tv. Nie wpływa na żadne konto i nie wymaga logowania.
+> ⚠️ **Ważne / Important:** Narzędzie usuwa bana na poziomie **przeglądarki** (cookies + fingerprint), a NIE bana na **koncie Google** Nie wpływa na żadne konto i nie wymaga logowania.
 >
-> This tool removes a ban at the **browser level** (cookies + fingerprint), NOT a **Google account** or ome.tv account ban. It does not affect any account and does not require logging in.
+> This tool removes a ban at the **browser level** (cookies + fingerprint), NOT a **Google account** It does not affect any account and does not require logging in.
 
 ---
 
