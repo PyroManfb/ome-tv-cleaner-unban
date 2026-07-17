@@ -16,7 +16,7 @@ Proste rozszerzenie, które czyści dane sesji ome.tv i losuje nowy fingerprint 
 - Działa **tylko dla ome.tv** — reszta przeglądarki jest nietknięta
 
 ### Czego NIE robi
-- Nie odbanowuje konta Google ani konta ome.tv
+- Nie odbanowuje konta Google
 - Nie wymaga logowania na żadne konto
 - Nie zmienia Twojego adresu IP (jeśli ban zależy od IP, użyj VPN)
 
@@ -46,7 +46,7 @@ Proste rozszerzenie, które czyści dane sesji ome.tv i losuje nowy fingerprint 
 - Works **only for ome.tv** — the rest of your browser stays untouched
 
 ### What it does NOT do
-- It does not unban a Google account or ome.tv account
+- It does not unban a Google account
 - It does not require logging into any account
 - It does not change your IP address (if the ban is IP-based, use a VPN)
 
