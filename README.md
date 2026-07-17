@@ -1,5 +1,5 @@
 # Ome.tv Cleaner
-
+Discord:@PyroMix.
 Proste rozszerzenie, które czyści dane sesji ome.tv i losuje nowy fingerprint przeglądarki. Dzięki temu strona widzi Cię jako nowego użytkownika.
 
 > ⚠️ **Ważne / Important:** Narzędzie usuwa bana na poziomie **przeglądarki** (cookies + fingerprint), a NIE bana na **koncie Google** Nie wpływa na żadne konto i nie wymaga logowania.
